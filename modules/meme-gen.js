@@ -10,7 +10,8 @@
     pguy: "Programmer Guy",
     thumbguy: "Thumbs-Up Suited Guy",
     stonerstoney: "Stoner Stoney",
-    o9000: "Over 9000 Vegeta"
+    o9000: "Over 9000 Vegeta",
+    octocat: "Octocat"
   }
 
   memes = {
@@ -21,7 +22,8 @@
     pguy: "0493500308D108CFD8D58C7A51BF2E93",
     thumbguy: "040F8013656E5040581289475150DD5D",
     stonerstoney: "04EF40124A4F5040572846F1512D9CC6",
-    o9000: "049D200338A944244D120DDD50535BC2"
+    o9000: "049D200338A944244D120DDD50535BC2",
+    octocat: "04D5700060572CD2ABE0697E51C4AA99"
   };
 
   module.exports = function(robot) {
